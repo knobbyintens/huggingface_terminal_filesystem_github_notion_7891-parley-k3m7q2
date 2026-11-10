@@ -1,0 +1,95 @@
+{
+  "cycle": "2026-11",
+  "families": [
+    {
+      "family": "atlas-routing",
+      "package": "families/atlas-routing",
+      "stage": "backlog"
+    },
+    {
+      "family": "beacon-inventory",
+      "package": "families/beacon-inventory",
+      "stage": "backlog"
+    },
+    {
+      "family": "cobalt-scheduling",
+      "package": "families/cobalt-scheduling",
+      "stage": "backlog"
+    },
+    {
+      "family": "delta-payments",
+      "package": "families/delta-payments",
+      "stage": "backlog"
+    },
+    {
+      "family": "ember-support",
+      "package": "families/ember-support",
+      "stage": "backlog"
+    },
+    {
+      "family": "fjord-catalog",
+      "package": "families/fjord-catalog",
+      "stage": "backlog"
+    },
+    {
+      "family": "granite-telemetry",
+      "package": "families/granite-telemetry",
+      "stage": "backlog"
+    },
+    {
+      "family": "harbor-onboarding",
+      "package": "families/harbor-onboarding",
+      "stage": "backlog"
+    },
+    {
+      "family": "iris-compliance",
+      "package": "families/iris-compliance",
+      "stage": "backlog"
+    },
+    {
+      "family": "sable-renewals",
+      "package": "families/sable-renewals",
+      "stage": "backlog"
+    },
+    {
+      "family": "tundra-fulfillment",
+      "package": "families/tundra-fulfillment",
+      "stage": "backlog"
+    },
+    {
+      "family": "orchid-billing",
+      "package": "families/orchid-billing",
+      "stage": "backlog"
+    },
+    {
+      "family": "quartz-search",
+      "package": "families/quartz-search",
+      "stage": "backlog"
+    },
+    {
+      "family": "summit-claims",
+      "package": "families/summit-claims",
+      "stage": "backlog"
+    },
+    {
+      "family": "velvet-dispatch",
+      "package": "families/velvet-dispatch",
+      "stage": "backlog"
+    },
+    {
+      "family": "willow-intake",
+      "package": "families/willow-intake",
+      "stage": "backlog"
+    },
+    {
+      "family": "xenon-batching",
+      "package": "families/xenon-batching",
+      "stage": "backlog"
+    },
+    {
+      "family": "yarrow-escalation",
+      "package": "families/yarrow-escalation",
+      "stage": "backlog"
+    }
+  ]
+}

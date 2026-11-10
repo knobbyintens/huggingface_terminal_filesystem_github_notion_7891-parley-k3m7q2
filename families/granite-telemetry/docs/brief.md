@@ -1,0 +1,1 @@
+Sensor aggregation and alert-feed conversations for remote ridge instrumentation.

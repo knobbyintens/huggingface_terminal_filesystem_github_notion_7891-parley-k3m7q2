@@ -1,0 +1,1 @@
+Dialogue samples for the iron-gauge inspection family, covering tolerance checks and sign-off.

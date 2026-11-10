@@ -1,0 +1,13 @@
+2026-07 structure gate (release tooling)
+----------------------------------------
+atlas-routing      docs=en/ok  eval=ok       -> released
+beacon-inventory   docs=en/ok  eval=ok       -> released
+cobalt-scheduling  docs=en/ok  eval=ok       -> released
+delta-payments     docs=en/ok  eval=ok       -> released
+ember-support      docs=en/ok  eval=ok       -> released
+fjord-catalog      docs=en/ok  eval=ok       -> released
+granite-telemetry  docs=en/ok  eval=ok       -> released
+harbor-onboarding  docs=en/ok  eval=ok       -> released
+iron-gauge         docs=en/ok  eval=MISSING  -> held
+juniper-archive    docs=en/ok  eval=MISSING  -> held
+kestrel-archive    docs=not-en  eval=ok       -> held

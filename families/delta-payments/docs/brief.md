@@ -1,0 +1,1 @@
+Batch validation, fee computation and settlement-window queries for payments.
