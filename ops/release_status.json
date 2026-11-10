@@ -4,92 +4,92 @@
     {
       "family": "atlas-routing",
       "package": "families/atlas-routing",
-      "stage": "backlog"
+      "stage": "releasable"
     },
     {
       "family": "beacon-inventory",
       "package": "families/beacon-inventory",
-      "stage": "backlog"
+      "stage": "releasable"
     },
     {
       "family": "cobalt-scheduling",
       "package": "families/cobalt-scheduling",
-      "stage": "backlog"
+      "stage": "releasable"
     },
     {
       "family": "delta-payments",
       "package": "families/delta-payments",
-      "stage": "backlog"
+      "stage": "releasable"
     },
     {
       "family": "ember-support",
       "package": "families/ember-support",
-      "stage": "backlog"
+      "stage": "releasable"
     },
     {
       "family": "fjord-catalog",
       "package": "families/fjord-catalog",
-      "stage": "backlog"
+      "stage": "releasable"
     },
     {
       "family": "granite-telemetry",
       "package": "families/granite-telemetry",
-      "stage": "backlog"
+      "stage": "releasable"
     },
     {
       "family": "harbor-onboarding",
       "package": "families/harbor-onboarding",
-      "stage": "backlog"
+      "stage": "releasable"
     },
     {
       "family": "iris-compliance",
       "package": "families/iris-compliance",
-      "stage": "backlog"
+      "stage": "releasable"
     },
     {
       "family": "sable-renewals",
       "package": "families/sable-renewals",
-      "stage": "backlog"
+      "stage": "blocked"
     },
     {
       "family": "tundra-fulfillment",
       "package": "families/tundra-fulfillment",
-      "stage": "backlog"
+      "stage": "blocked"
     },
     {
       "family": "orchid-billing",
       "package": "families/orchid-billing",
-      "stage": "backlog"
+      "stage": "blocked"
     },
     {
       "family": "quartz-search",
       "package": "families/quartz-search",
-      "stage": "backlog"
+      "stage": "blocked"
     },
     {
       "family": "summit-claims",
       "package": "families/summit-claims",
-      "stage": "backlog"
+      "stage": "blocked"
     },
     {
       "family": "velvet-dispatch",
       "package": "families/velvet-dispatch",
-      "stage": "backlog"
+      "stage": "blocked"
     },
     {
       "family": "willow-intake",
       "package": "families/willow-intake",
-      "stage": "backlog"
+      "stage": "blocked"
     },
     {
       "family": "xenon-batching",
       "package": "families/xenon-batching",
-      "stage": "backlog"
+      "stage": "blocked"
     },
     {
       "family": "yarrow-escalation",
       "package": "families/yarrow-escalation",
-      "stage": "backlog"
+      "stage": "blocked"
     }
   ]
 }
